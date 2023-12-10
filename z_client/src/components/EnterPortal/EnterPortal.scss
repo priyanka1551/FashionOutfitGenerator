@@ -21,7 +21,7 @@ body {
   
     .background-image {
       position: absolute;
-      background-image: url("../../assets/bg.jpg");
+      background-image: url("../../assets/bg.webp");
       background-size: cover;
       background-position: center;
       width: 100vw;
@@ -31,7 +31,7 @@ body {
     .logo {
         position: absolute;
         top: 10px;
-        left: 10px;
+        left: 25px;
         z-index: 1;
       }
   

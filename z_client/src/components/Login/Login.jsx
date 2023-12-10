@@ -3,7 +3,7 @@ import "./Login.scss"
 import { Link, useNavigate } from "react-router-dom";
 import { useState } from "react";
 import axios from "axios";
-import logo from "../../assets/2.svg";
+import logo from "../../assets/1.svg";
 import Cookies from 'js-cookie';
 const Login = () => {
     const initialValues = { email: '', password: '' };

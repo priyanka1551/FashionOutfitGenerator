@@ -3,7 +3,7 @@ import "./Register.scss"
 import { Link, useNavigate } from "react-router-dom";
 import { useState } from "react";
 import axios from "axios";
-import logo from "../../assets/2.svg";
+import logo from "../../assets/1.svg";
 const Register = () => {
     const initialValues = { email: '', password: '', username: '' };
     const [formValues, setFormValues] = useState(initialValues);
